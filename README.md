@@ -28,12 +28,6 @@ Welcome to my personal developer portfolio! This repository hosts the source cod
 
 ---
 
-## 📫 Contact
-- Email: [robert@example.com](mailto:robert@example.com)  
-- LinkedIn: [linkedin.com/in/robertmutua](https://linkedin.com/in/robertmutua)  
-- GitHub: [github.com/robertmutua-dev](https://github.com/robertmutua-dev)  
-- WhatsApp: [Chat on WhatsApp](https://wa.me/254712345678?text=Hi%20Robert!%20I%20came%20across%20your%20portfolio%20and%20would%20like%20to%20connect.)
 
----
 
 ✨ _Created by Robert Mutua_
